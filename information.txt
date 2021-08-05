@@ -1,0 +1,17 @@
+
+Usando Context API: cuenta con un Hook llamado "useContext", basicamente
+se definen datos como de manera global sin usar los props de padre a hijo.
+
+--------------------------
+Api a usar 👍
+
+https://www.thecocktaildb.com/
+
+
+-------------------------- 
+Instalar Axios
+
+>npm i axios
+
+---------------------
+npm install @material-ui/core
